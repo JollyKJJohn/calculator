@@ -1,0 +1,47 @@
+.container{
+	border: 2px solid black;
+	width: 400px;
+	height: 500px;
+	background-color:#D7DBDD ;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 20px;
+	justify-content: center;
+	
+
+}
+.container h2{
+	padding-left: 30px;
+
+}
+#screen{
+	width: 350px;
+	height: 100px;
+	margin-left: 20px;
+	margin-top: 5px;
+	border-radius: 10px;
+	background-color: lawngreen;
+
+}
+.button,.acscreen{
+	width: 80px;
+	height: 55px;
+	margin-left: 15px;
+	margin-top: 8px;
+	font-size: 22px;
+	background-color: black;
+	color: white;
+
+
+}
+.acscreen{
+	background-color: red;
+	
+}
+.clearscreen{
+	background-color:#85929E;
+	color: white;
+}
+.displayscreen{
+	font-size: 40px;
+}
